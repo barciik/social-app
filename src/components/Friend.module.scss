@@ -1,0 +1,29 @@
+.friendContainer {
+    width: 100%;
+    height: 3em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #535050;
+    gap: 1rem;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 1rem;
+    box-shadow: 3px 3px 2px 2px #000000;
+}
+
+.profilePicture {
+    width: 25px;
+    height: 25px;
+}
+
+.infoSection {
+    width: 4rem;
+}
+
+.addFriendBtn {
+    width: 25px;
+    height: 25px;
+    border: 1px solid black;
+}
