@@ -1,0 +1,70 @@
+{
+    "Users": {
+        "LewisHamilton": {
+            "posts": {
+                "post1": {
+                    "firstName": "Lewis",
+                    "lastName": "Hamilton",
+                    "text": "text",
+                    "date": "31-12-2022 - 12:23"
+                },
+                "post2": {
+                    "firstName": "Lewis",
+                    "lastName": "Hamilton",
+                    "text": "text",
+                    "date": "01-01-2023 - 00:23"
+                },
+                "post3": {
+                    "firstName": "Lewis",
+                    "lastName": "Hamilton",
+                    "text": "text",
+                    "date": "02-01-2023 - 10:45"
+                }
+            }
+        },
+        "MaxVerstappen": {
+            "posts": {
+                "post1": {
+                    "firstName": "Max",
+                    "lastName": "Verstappen",
+                    "text": "text",
+                    "date": "31-12-2022 - 12:23"
+                },
+                "post2": {
+                    "firstName": "Max",
+                    "lastName": "Verstappen",
+                    "text": "text",
+                    "date": "01-01-2023 - 00:23"
+                },
+                "post3": {
+                    "firstName": "Max",
+                    "lastName": "Verstappen",
+                    "text": "text",
+                    "date": "02-01-2023 - 10:45"
+                }
+            }
+        },
+        "AlexanderAlbon": {
+            "posts": {
+                "post1": {
+                    "firstName": "Alex",
+                    "lastName": "Albon",
+                    "text": "text",
+                    "date": "31-12-2022 - 12:23"
+                },
+                "post2": {
+                    "firstName": "Alex",
+                    "lastName": "Albon",
+                    "text": "text",
+                    "date": "01-01-2023 - 00:23"
+                },
+                "post3": {
+                    "firstName": "Alex",
+                    "lastName": "Albon",
+                    "text": "text",
+                    "date": "02-01-2023 - 10:45"
+                }
+            }
+        }
+    }
+}
